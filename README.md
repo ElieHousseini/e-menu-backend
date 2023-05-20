@@ -1,6 +1,6 @@
-# Backend E-Menu
+# E-Menu Backend
 
-Backend E-Menu is a headless CMS that uses Strapi (Content Management System) to manage the menu data for the E-Menu application. It provides an easy-to-use interface for creating, updating, and deleting dishes from the menu.
+E-Menu Backend is a headless CMS that uses Strapi (Content Management System) to manage the menu data for the E-Menu application. It provides an easy-to-use interface for creating, updating, and deleting dishes from the menu.
 
 ## Installation
 
